@@ -1,6 +1,6 @@
 <?php
-$host = '172.23.180.95'; // ou IP do WSL, ex: 172.23.180.95
-$db   = 'usuarios'; // substitua pelo seu banco
+$host = '172.23.180.95'; 
+$db   = 'usuarios'; 
 $user = 'root';
 $pass = 'admin'; // sua senha
 $charset = 'utf8mb4';
