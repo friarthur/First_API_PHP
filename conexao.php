@@ -2,7 +2,7 @@
 $host = '172.23.180.95'; 
 $db   = 'usuarios'; 
 $user = 'root';
-$pass = 'admin'; // sua senha
+$pass = 'admin'; 
 $charset = 'utf8mb4';
 
 try {
